@@ -2,7 +2,7 @@ package newsAPI.dto
 
 import java.time.LocalDate
 
-class DataSet {
+class NewsDataSet {
     var count: Int = 100
     var location: String? = null
     var period: ClosedRange<LocalDate>? = null

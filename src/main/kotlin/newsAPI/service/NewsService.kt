@@ -9,7 +9,7 @@ import io.ktor.http.*
 import kotlinx.coroutines.runBlocking
 import kotlinx.serialization.json.Json
 import newsAPI.dsl.NewsResults
-import newsAPI.dto.DataSet
+import newsAPI.dto.NewsDataSet
 import newsAPI.dto.News
 import org.slf4j.LoggerFactory
 import java.io.File
@@ -22,7 +22,7 @@ val BASE_URL: String = "https://kudago.com/public-api/v1.4/news/"
 
 class NewsService {
     val LOGGER = LoggerFactory.getLogger(NewsService::class.java)
-    fun getNews(dataSet: DataSet): NewsResults {
+    fun getNews(dataSet: NewsDataSet): NewsResults {
         val count = dataSet.count
         val period = dataSet.period!!
         val location = dataSet.location

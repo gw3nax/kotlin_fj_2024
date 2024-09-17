@@ -1,6 +1,6 @@
-import newsAPI.dsl.CustomDslMarker
+import newsAPI.dsl.NewsDslMarker
 import newsAPI.dsl.NewsResults
-import newsAPI.dto.DataSet
+import newsAPI.dto.NewsDataSet
 import newsAPI.service.NewsService
 import org.slf4j.LoggerFactory
 import java.time.LocalDate
@@ -10,7 +10,7 @@ object news {
     operator fun invoke(init: NewsContext.() -> NewsResults) = NewsContext().init()
 }
 
-@CustomDslMarker
+@NewsDslMarker
 class NewsContext {
     fun data(init: DataContext.() -> Unit): NewsResults {
         val context = DataContext().apply(init)
@@ -20,7 +20,7 @@ class NewsContext {
     }
 }
 
-@CustomDslMarker
+@NewsDslMarker
 class DataContext {
     val LOGGER = LoggerFactory.getLogger(DataContext::class.java)
     var count: Int = 100
@@ -46,7 +46,7 @@ class DataContext {
         LOGGER.info(endDate.toString())
     }
 
-    fun buildDataSet() = DataSet().apply {
+    fun buildDataSet() = NewsDataSet().apply {
         LOGGER.info("\nBefore:\nstartDate: ${startDate.toString()}\nendDate: ${endDate.toString()}")
         count = this@DataContext.count
         location = this@DataContext.location
