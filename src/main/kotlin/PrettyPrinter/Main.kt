@@ -1,7 +1,6 @@
-import java.io.File
-
 fun main() {
-    val markdown = readme {
+    readme {
+        filename("GeneratedREADME")
         header(level = 1) { "Kotlin Lecture" }
         header(level = 2) { "DSL" }
 
@@ -28,14 +27,6 @@ fun main() {
                 """.trimIndent()
             }
         }
-    }
-
-    val file = File("test.md")
-    if (file.exists()) {
-        throw IllegalArgumentException("File already exists at the specified path.")
-    }
-
-    file.bufferedWriter().use { writer ->
-        writer.write(markdown)
+        header(level = 1) { "Kotlin DSL would be a great addon to Java projects" }
     }
 }

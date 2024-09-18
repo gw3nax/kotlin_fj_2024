@@ -9,8 +9,8 @@ import io.ktor.http.*
 import kotlinx.coroutines.runBlocking
 import kotlinx.serialization.json.Json
 import newsAPI.dsl.NewsResults
-import newsAPI.dto.NewsDataSet
 import newsAPI.dto.News
+import newsAPI.dto.NewsDataSet
 import org.slf4j.LoggerFactory
 import java.io.File
 import java.io.IOException
@@ -45,8 +45,10 @@ class NewsService {
                 LOGGER.info("response: $jsonResponse")
                 Json { ignoreUnknownKeys = true }.decodeFromString<NewsResponse>(jsonResponse)
             }
-            return NewsResults(apiResponse.results
-                .getMostRatedNews(count, period))
+            return NewsResults(
+                apiResponse.results
+                    .getMostRatedNews(count, period)
+            )
 
         } catch (e: Exception) {
             LOGGER.warn("Failed to fetch news")
