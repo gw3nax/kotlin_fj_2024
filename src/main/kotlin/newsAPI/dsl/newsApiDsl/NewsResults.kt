@@ -1,4 +1,4 @@
-package newsAPI.dsl
+package newsAPI.dsl.newsApiDsl
 
 import newsAPI.dto.News
 

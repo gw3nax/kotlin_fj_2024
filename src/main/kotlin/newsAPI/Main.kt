@@ -1,12 +1,10 @@
 package newsAPI
 
-import news
-import newsAPI.service.NewsService
+import newsAPI.dsl.newsApiDsl.news
+import newsAPI.dsl.prettyPrinterDsl.readme
 import java.io.BufferedReader
 import java.io.InputStreamReader
 
-
-val newsService = NewsService()
 val reader = BufferedReader(InputStreamReader(System.`in`))
 
 fun main() {
@@ -19,7 +17,8 @@ fun main() {
     print("Input end date of news (example: 2024-09-16): ")
     val endDate = reader.readLine()
 
-    val newsResults = news {
+    news {
+        fileName = "NewsReport.csv"
         data {
             count = numOfNews
             location = "spb"
@@ -28,7 +27,12 @@ fun main() {
         }
     }
 
-    print("Input filename: ")
-    val filename = reader.readLine()
-    newsService.saveNews("$filename.csv", newsResults)
+    readme {
+        filename("NewsReport")
+        header(level = 1) { "News Report" }
+        text {
+            +"Here is the latest news from ${startDate} to ${endDate}: "
+        }
+        news(count = numOfNews, location = "spb", startedAt = startDate, endedAt = endDate)
+    }
 }

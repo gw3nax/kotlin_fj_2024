@@ -1,6 +1,10 @@
-import PrettyPrinter.dsl.PrettyPrinterDslMarker
-import java.io.File
+package newsAPI.dsl.prettyPrinterDsl
 
+import newsAPI.dto.NewsDataSet
+import newsAPI.service.NewsService
+import java.io.File
+import java.time.LocalDate
+import java.time.format.DateTimeFormatter
 
 fun readme(content: ReadmeBuilder.() -> Unit) {
     val builder = ReadmeBuilder().apply(content)
@@ -19,13 +23,38 @@ fun saveFile(text: String, fileName: String = "GeneratedREADME") {
     }
 }
 
-@PrettyPrinterDslMarker
+@PrettyPrinterReadmeDslMarker
 class ReadmeBuilder {
     private val content = StringBuilder()
     private var fileName = ""
+    private var newsService: NewsService? = null
 
     fun filename(newFileName: String) {
         fileName = newFileName
+    }
+
+    fun news(
+        count: Int = 100,
+        location: String = "spb",
+        startedAt: String = "2024-09-23",
+        endedAt: String = "2024-09-28"
+    ) {
+        val period = LocalDate.from(
+            DateTimeFormatter.ofPattern("yyyy-MM-dd").parse(startedAt)
+        )..LocalDate.from(DateTimeFormatter.ofPattern("yyyy-MM-dd").parse(endedAt))
+        newsService = NewsService()
+        val newsDataSet = NewsDataSet(count, location, period)
+        val newsResults = newsService!!.getNews(newsDataSet)
+
+        content.append("## News\n\n")
+        newsResults.news.forEach { newsItem ->
+            content.append("### ${newsItem.title}\n")
+            content.append("*Published at*: ${newsItem.publishedAt}\n")
+            content.append("Location: ${newsItem.place?.location ?: "N/A"}\n")
+            content.append("Description: ${newsItem.description}\n")
+            content.append("Read more: [link](${newsItem.siteUrl})\n")
+            content.append("\n")
+        }
     }
 
     fun header(level: Int, content: () -> String) {
@@ -49,7 +78,7 @@ class DataSet {
     var dataSetFileName: String = ""
 }
 
-@PrettyPrinterDslMarker
+@PrettyPrinterReadmeDslMarker
 class TextBuilder {
     private val content = StringBuilder()
 

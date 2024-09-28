@@ -8,7 +8,7 @@ import io.ktor.client.statement.*
 import io.ktor.http.*
 import kotlinx.coroutines.runBlocking
 import kotlinx.serialization.json.Json
-import newsAPI.dsl.NewsResults
+import newsAPI.dsl.newsApiDsl.NewsResults
 import newsAPI.dto.News
 import newsAPI.dto.NewsDataSet
 import org.slf4j.LoggerFactory
@@ -18,7 +18,6 @@ import java.time.LocalDate
 import kotlin.math.exp
 
 val BASE_URL: String = "https://kudago.com/public-api/v1.4/news/"
-
 
 class NewsService {
     val LOGGER = LoggerFactory.getLogger(NewsService::class.java)
@@ -56,18 +55,16 @@ class NewsService {
         }
     }
 
-    fun saveNews(path: String, newsResults: NewsResults) {
+    fun saveNews(path: String = "GeneratedSCV", newsResults: NewsResults) {
         val news = newsResults.news
         val file = File(path)
         if (file.exists()) {
             LOGGER.warn("File already exists.")
             throw IllegalArgumentException("File already exists at the specified path.")
         }
-
         file.bufferedWriter().use { writer ->
-            writer.write("id,title,place,description,siteUrl,favoritesCount,commentsCount,rating\n")
             news.forEach { newsItem ->
-                writer.write("${newsItem.id},\"${newsItem.publishedAt},\"${newsItem.title}\",\"${newsItem.place}\",\"${newsItem.description}\",${newsItem.siteUrl},${newsItem.favoritesCount},${newsItem.commentsCount},${newsItem.rating ?: ""}\n")
+                writer.write("${newsItem.id};\"${newsItem.publishedAt};\"${newsItem.title}\";\"${newsItem.place}\";\"${newsItem.description}\";${newsItem.siteUrl};${newsItem.favoritesCount};${newsItem.commentsCount};${newsItem.rating ?: ""}\n")
             }
         }
         LOGGER.debug("File written successfully.")

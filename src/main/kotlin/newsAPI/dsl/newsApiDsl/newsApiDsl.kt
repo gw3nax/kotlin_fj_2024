@@ -1,5 +1,5 @@
-import newsAPI.dsl.NewsDslMarker
-import newsAPI.dsl.NewsResults
+package newsAPI.dsl.newsApiDsl
+
 import newsAPI.dto.NewsDataSet
 import newsAPI.service.NewsService
 import org.slf4j.LoggerFactory
@@ -7,16 +7,22 @@ import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 
 object news {
-    operator fun invoke(init: NewsContext.() -> NewsResults) = NewsContext().init()
+    operator fun invoke(init: NewsContext.() -> Unit) = NewsContext().init()
 }
 
 @NewsDslMarker
 class NewsContext {
-    fun data(init: DataContext.() -> Unit): NewsResults {
+    var fileName: String = "GeneratedCSV.csv"
+    fun fileName(path: String) {
+        fileName = path
+    }
+
+    fun data(init: DataContext.() -> Unit): Unit {
         val context = DataContext().apply(init)
         val dataSet = context.buildDataSet()
         val newsService = NewsService()
-        return newsService.getNews(dataSet)
+        val newsResults = newsService.getNews(dataSet)
+        return newsService.saveNews(fileName, newsResults);
     }
 }
 

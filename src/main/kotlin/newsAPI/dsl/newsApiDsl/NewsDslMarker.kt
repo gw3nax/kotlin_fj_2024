@@ -1,4 +1,4 @@
-package newsAPI.dsl
+package newsAPI.dsl.newsApiDsl
 
 @DslMarker
 annotation class NewsDslMarker
