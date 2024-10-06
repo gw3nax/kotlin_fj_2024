@@ -1,0 +1,4 @@
+package newsAPI.dsl.prettyPrinterDsl
+
+@DslMarker
+annotation class PrettyPrinterReadmeDslMarker
