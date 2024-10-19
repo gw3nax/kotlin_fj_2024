@@ -1,350 +1,379 @@
 # News Report
 
-Here is the latest news from 2024-09-23 to 2024-09-28: 
+Here is the latest news from 2024-10-10 to 2024-10-19: 
 
 
 ## News
 
-### История как на ладони: 3 канала в VK Видео, которые оживляют прошлое
-*Published at*: 2024-09-25
+### Путешествие без границ с VK Видео: блоги о необычных маршрутах и лайфхаках для путешествий
+*Published at*: 2024-10-17
 Location: N/A
-Description: Изучение истории может быть по-настоящему захватывающим и интерактивным процессом. KudaGo и VK Видео собрали для вас интересные исторические видеоблоги, где можно найти разборы мифов и легенд, реконструкцию событий и анализ малоизвестных фактов, которые помогают по-новому взглянуть на различные исторические моменты.
-Read more: [link](https://kudago.com/all/news/istoriya-kak-na-ladoni-3-kanala/)
+Description: В приложении VK Видео есть что посмотреть, чем бы вы ни увлекались. Включайте любимых блогеров, шоу, клипы и сериалы, сохраняйте понравившееся, получайте персональные рекомендации. А специально для тех, кто не представляет жизнь без путешествий, мы составили подборку из трёх видеоблогов, авторы которых рассказывают о малоизвестных местах и делятся советами для самостоятельных туристов.
+Read more: [link](https://kudago.com/all/news/puteshestvie-bez-granits-s-vk/)
 
-### Стало известно, кто сыграет в ремейке фильма «Москва слезам не верит»
-*Published at*: 2024-09-27
+### У приквела «Дюны» появился ещё один трейлер
+*Published at*: 2024-10-18
 Location: N/A
-Description: Действие перенесут в современность.
-Read more: [link](https://kudago.com/all/news/kto-sygraet-v-remejke-filma-moskva-slezam-ne-verit/)
+Description: В шоу будет шесть эпизодов.
+Read more: [link](https://kudago.com/all/news/u-prikvela-dyunyi-poyavilsya/)
 
-### The Cure выпустили сингл после 16 лет молчания
-*Published at*: 2024-09-27
+### В России обсуждают запрет езды на электросамокатах людям до 16 лет
+*Published at*: 2024-10-18
 Location: N/A
-Description: Скоро состоится премьера нового альбома.
-Read more: [link](https://kudago.com/all/news/the-cure-vyipustili-singl-posle/)
+Description: И возможность арендовать СИМ только при наличии водительского удостоверения.
+Read more: [link](https://kudago.com/all/news/na-samokatah-razreshat-ezdit-s/)
 
-### Умерла Мэгги Смит, сыгравшая Минерву МакГонагалл в фильмах о Гарри Поттере
-*Published at*: 2024-09-27
+### Режим работы станции «Горьковская» изменится из-за ремонта
+*Published at*: 2024-10-18
 Location: N/A
-Description: Палочки вверх!
-Read more: [link](https://kudago.com/all/news/umerla-meggi-smit-syigravshaya/)
+Description: Он продлится почти два месяца.
+Read more: [link](https://kudago.com/spb/news/rezhim-gorkovskoj-izmenitsya-iz-za-remonta/)
 
-### Появился первый трейлер спин-оффа «Джона Уика» с Аной де Армас
-*Published at*: 2024-09-27
+### Из Петербурга в Гатчину отправится «Пушкинская Ласточка»
+*Published at*: 2024-10-18
 Location: N/A
-Description: Неонуарный экшен появится на экранах летом.
-Read more: [link](https://kudago.com/all/news/pervyj-trejler-spin-offa-dzhona-uika/)
+Description: Пассажиры смогут принять участие в викторине.
+Read more: [link](https://kudago.com/spb/news/pushkinskaya-lastochka-iz-peterburga-v-gatchinu/)
 
-### Вышел тизер грядущего сезона «Одни из нас»
-*Published at*: 2024-09-27
+### Кинематографисты готовят ремейк «Невероятных приключений итальянцев в России»
+*Published at*: 2024-10-17
 Location: N/A
-Description: Для публикации выбрали особую дату.
-Read more: [link](https://kudago.com/all/news/vyishel-tizer-gryaduschego-sezona/)
+Description: Его снимут совместно с Китаем.
+Read more: [link](https://kudago.com/all/news/kinematografistyi-gotovyat-remejk/)
 
-### Турок в Петербурге: Алперен о гопниках, пасхальных куличах и советских артефактах
-*Published at*: 2024-09-27
+### Появился новый трейлер финального сезона «Аркейна»
+*Published at*: 2024-10-17
 Location: N/A
-Description: Мы продолжаем знакомиться с иностранцами, живущими в городе на Неве. Наш сегодняшний герой — Алперен из Анкары. Поговорили о студне, бумажной волоките и русском юморе.
-Read more: [link](https://kudago.com/spb/news/turok-v-peterburge/)
+Description: Трансляцию разобьют на три части.
+Read more: [link](https://kudago.com/all/news/trejler-finalnogo-sezona-arkejna/)
 
-### У фильма про Марию Каллас с Анджелиной Джоли появился первый тизер
-*Published at*: 2024-09-27
+### В тизере нового «Уоллеса и Громита» у главных героев неприятности
+*Published at*: 2024-10-17
 Location: N/A
-Description: На Венецианском кинофестивале картину встретили овациями.
-Read more: [link](https://kudago.com/all/news/u-filma-pro-mariyu-kallas-s/)
+Description: Премьера мультфильма состоится в январе.
+Read more: [link](https://kudago.com/all/news/v-tizere-novogo-uollesa-i/)
 
-### Ефим Шифрин рассказал о работе над фильмом «Возвращение попугая Кеши»
-*Published at*: 2024-09-27
+### Разработаны новые правила поступления в вузы для будущих учителей
+*Published at*: 2024-10-17
 Location: N/A
-Description: Артист поделился секретом съёмок с животными.
-Read more: [link](https://kudago.com/all/news/efim-shifrin-rasskazal-o-rabote/)
+Description: Они начнут действовать через два года.
+Read more: [link](https://kudago.com/all/news/razrabotanyi-novyie-pravila/)
 
-### В Калининском районе заметили ястреба
-*Published at*: 2024-09-27
+### Вышел дебютный трейлер байопика про Александра Пушкина
+*Published at*: 2024-10-17
 Location: N/A
-Description: Он обедал.
-Read more: [link](https://kudago.com/spb/news/v-kalininskom-rajone-zametili-yastreba/)
+Description: Премьера состоится в День всех влюблённых.
+Read more: [link](https://kudago.com/all/news/trejler-bajopika-pro-aleksandra-pushkina/)
 
-### Племя изгоев: рецензия на фильм «Граф Монте-Кристо»
-*Published at*: 2024-09-27
+### Открыт приём заявок на премию для фуд-блогеров
+*Published at*: 2024-10-17
 Location: N/A
-Description: На экранах кинотеатров можно увидеть «Графа Монте-Кристо» — новую зрелищную экранизацию романа Александра Дюма. Французские кинематографисты превратили классический текст в современный блокбастер. Подробнее о фильме читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
-Read more: [link](https://kudago.com/all/news/recenziya-na-film-graf-monte-kristo-2024/)
+Description: Призы вручат в 13 номинациях.
+Read more: [link](https://kudago.com/all/news/fud-premii-2024/)
 
-### В усадьбе Уткина дача высадили яблони
-*Published at*: 2024-09-27
+### Первая в России музыкальная разметка появилась на трассе между Москвой и Петербургом
+*Published at*: 2024-10-17
 Location: N/A
-Description: В следующем году здесь откроется выставочный центр.
-Read more: [link](https://kudago.com/spb/news/v-usadbe-utkina-dacha-vyisadili-yabloni/)
+Description: Для водителей будет звучать знакомая с детства мелодия.
+Read more: [link](https://kudago.com/all/news/pervaya-v-rossii-muzyikalnaya/)
 
-### Go по работам: юрист по интеллектуальной собственности про народные представления о профессии, молодую музыкальную индустрию и Гарри Поттера
-*Published at*: 2024-09-27
+### Умер бывший солист One Direction Лиам Пейн
+*Published at*: 2024-10-17
 Location: N/A
-Description: Как бы вы ни представляли себе профессию юриста по интеллектуальной собственности, после прочтения интервью с Вадимом Хохловым вы поменяете мнение об этой сфере. Вадим работает с такими артистами, как Zoloto, ATL, GONE.Fludd, SODA LUV, BUSHIDO ZHO.  Он рассказал нам для Go по работам, почему мир гораздо лучше спора, как быть котом Леопольдом в шоу-индустрии и почему его работа — это коммуникация и нетворкинг.
-Read more: [link](https://kudago.com/all/news/go-po-rabotam-yurist-po/)
+Description: Он выпал из окна.
+Read more: [link](https://kudago.com/all/news/umer-byvshij-solist-one-direction/)
 
-### В Петербурге наступила осень
-*Published at*: 2024-09-27
+### Русский музей открывает масштабную выставку к юбилею Карла Брюллова
+*Published at*: 2024-10-17
 Location: N/A
-Description: Однако ночь с четверга на пятницу была рекордно тёплой.
-Read more: [link](https://kudago.com/spb/news/v-peterburge-nastupila-osen/)
+Description: На ней представят около 400 работ мастера.
+Read more: [link](https://kudago.com/spb/news/russkij-muzej-otkryivaet/)
 
-### Самая провокационная выставка Петербурга «Фантазии и сны Зигмунда Фрейда»: почему стоит посетить?
-*Published at*: 2024-09-27
+### Собака забралась на самую высокую пирамиду Египта
+*Published at*: 2024-10-16
+Location: N/A
+Description: Видео опубликовано в соцсетях.
+Read more: [link](https://kudago.com/all/news/sobaka-zabralas-na-samuyu/)
+
+### У ЕГЭ не будет альтернативы
+*Published at*: 2024-10-16
+Location: N/A
+Description: Но его противники продолжат борьбу.
+Read more: [link](https://kudago.com/all/news/u-ege-ne-budet-alternativyi/)
+
+### Героев «Гарри Поттера» превратили в котов
+*Published at*: 2024-10-16
+Location: N/A
+Description: А ещё в рок-звёзд.
+Read more: [link](https://kudago.com/all/news/geroev-garri-pottera/)
+
+### Водительские права предложили выдавать с 16 лет
+*Published at*: 2024-10-16
+Location: N/A
+Description: Обращение направлено в МВД.
+Read more: [link](https://kudago.com/all/news/v-rossii-predlozhili-vyidavat/)
+
+### Go по работам: основательница благотворительного проекта «Путь домой» про осознанную помощь, ценность жизни и ответственность за тех, кого мы приручили
+*Published at*: 2024-10-16
+Location: N/A
+Description: Сегодня героем нашей рубрики Go по работам стала Валерия Котлюба, руководитель благотворительного проекта «ПУТЬ ДОМОЙ» и директор АНО «Агентство по реализации социально-значимых проектов и программ „ВЕТЕР ПЕРЕМЕН“». Валерия следит за тем, чтобы работа проекта не прекращалась, а также организует одноимённый фестиваль, который за время своего существования помог найти дом более чем для 1000 животных. Мы поговорили с ней о том, почему домашние животные оказываются на улице, как этого можно избежать и почему любая помощь — это возможность сделать чью-то жизнь лучше.
+Read more: [link](https://kudago.com/all/news/go-po-rabotam-osnovatelnitsa-blago-proekt/)
+
+### Кабаны держат в страхе посёлок в Ленобласти
+*Published at*: 2024-10-16
+Location: N/A
+Description: Жители боятся отпускать детей на прогулку.
+Read more: [link](https://kudago.com/spb/news/kabanyi-derzhat-v-strazhe-posyolok-v/)
+
+### «Ночлежка» открыла первый пункт обогрева для бездомных в Петербурге
+*Published at*: 2024-10-16
+Location: N/A
+Description: Второй заработает на этой неделе.
+Read more: [link](https://kudago.com/spb/news/nochlezhka-otkryila-pervyij-punkt/)
+
+### В России вырос спрос на тарологов и астрологов
+*Published at*: 2024-10-16
+Location: N/A
+Description: Вакансии вызывают нешуточный интерес у соискателей.
+Read more: [link](https://kudago.com/all/news/v-rossii-vyiros-spros-tarologov-i/)
+
+### В Петербурге восстанавливают музей Михаила Лермонтова
+*Published at*: 2024-10-15
+Location: N/A
+Description: Он находился в здании лицея № 280.
+Read more: [link](https://kudago.com/spb/news/v-peterburge-vosstanavlivayut/)
+
+### Райану Рейнольдсу и Хью Джекману предложили стать ведущими «Оскара»
+*Published at*: 2024-10-15
+Location: N/A
+Description: Приглашение получили ещё несколько звёзд.
+Read more: [link](https://kudago.com/all/news/rajanu-rejnoldsu-i-hyu-dzhekmanu/)
+
+### Над Россией летит самая яркая комета за 13 лет
+*Published at*: 2024-10-15
+Location: N/A
+Description: Она видна невооружённым глазом.
+Read more: [link](https://kudago.com/all/news/nad-rossiej-proletaet-samaya/)
+
+### Вход в Эрмитаж стал бесплатным для членов многодетных семей
+*Published at*: 2024-10-15
+Location: N/A
+Description: Льготные билеты доступны на сайте.
+Read more: [link](https://kudago.com/spb/news/vhod-v-ermitazh-stal-besplatnyim-dlya-mnogodetnyh-semej/)
+
+### В Выборгском замке появился бронзовый кот Филимон
+*Published at*: 2024-10-15
+Location: N/A
+Description: Он одет в пальто.
+Read more: [link](https://kudago.com/spb/news/v-vyiborgskom-zamke-poyavilsya/)
+
+### Спектакль окончен: рецензия на фильм «Джокер: Безумие на двоих»
+*Published at*: 2024-10-15
+Location: N/A
+Description: В мировой прокат вышел сиквел «Джокера» с подзаголовком «Безумие на двоих». Продолжение мрачного хита о злодее представляет собой невнятный микс мюзикла и судебной драмы. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+Read more: [link](https://kudago.com/all/news/retsenziya-na-film-dzhoker-bezumie-na-dvoih/)
+
+### Грибники из Петербурга и Ленобласти хвастаются полными корзинами
+*Published at*: 2024-10-15
+Location: N/A
+Description: Заморозки тихой охоте не помеха.
+Read more: [link](https://kudago.com/spb/news/gribniki-iz-peterburga-i/)
+
+### Роман с призраком: рецензия на фильм «Сидони в Японии»
+*Published at*: 2024-10-15
+Location: N/A
+Description: Кинопрокат радует фестивальными новинками. На этот раз на больших экранах можно увидеть ленту с недавнего Венецианского кинофестиваля — фильм Элиз Жирар с Изабель Юппер, Цуёси Ихара и Аугустом Дилем в главных ролях. Медленная драма о скорби и спокойной любви — то, что нужно этой осенью. О прелестях и тонкостях этой чудесной работы читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+Read more: [link](https://kudago.com/all/news/retsenziya-na-film-sidoni-v-yaponii/)
+
+### В Ленобласти спасают лисицу с переломами передних лап
+*Published at*: 2024-10-15
+Location: N/A
+Description: Её ждёт операция.
+Read more: [link](https://kudago.com/spb/news/v-lenoblasti-vyihazhivayut-lisa-s/)
+
+### В России могут запретить выступления животных в цирке
+*Published at*: 2024-10-14
+Location: N/A
+Description: Закон рассмотрят в ноябре.
+Read more: [link](https://kudago.com/all/news/v-rossii-mogut-zapretit-vystupleniya-zhivotnyh-v-cirke/)
+
+### Между Москвой и Петербургом начнёт ходить двухэтажная «Аврора»
+*Published at*: 2024-10-14
+Location: N/A
+Description: Её запустят в конце года.
+Read more: [link](https://kudago.com/all/news/mezhdu-moskvoj-i-sankt-14-10-2024/)
+
+### Идёт работа над новым сериалом про Штирлица
+*Published at*: 2024-10-14
+Location: N/A
+Description: Съёмки могут стартовать следующим летом.
+Read more: [link](https://kudago.com/all/news/idyot-rabota-nad-novyim-serialom/)
+
+### Котят нашли в коробке с чипсами
+*Published at*: 2024-10-14
+Location: N/A
+Description: Их уже пристроили в хорошие руки.
+Read more: [link](https://kudago.com/all/news/kotyat-nashli-v-korobke-s-chipsami/)
+
+### В Петербурге благоустроили берега Верхнего Суздальского озера
+*Published at*: 2024-10-14
+Location: N/A
+Description: На территории появилась инфраструктура для маломобильных горожан.
+Read more: [link](https://kudago.com/spb/news/v-peterburge-blagoustroili/)
+
+### В октябре можно будет наблюдать суперлуние
+*Published at*: 2024-10-14
+Location: N/A
+Description: Оно станет главным и последним в этом году.
+Read more: [link](https://kudago.com/all/news/v-oktyabre-mozhno-budet-nablyudat/)
+
+### Одноклассники запускают уникальное научпоп-шоу про садоводство
+*Published at*: 2024-10-14
+Location: N/A
+Description: В нём расскажут, как получить высокий урожай при помощи современных технологий.
+Read more: [link](https://kudago.com/all/news/odnoklassniki-zapuskayut/)
+
+### В Петербурге и Ленобласти перешли на регулярное отопление
+*Published at*: 2024-10-14
+Location: N/A
+Description: В связи с понижением температуры.
+Read more: [link](https://kudago.com/spb/news/v-peterburge-i-lenoblasti-regulyarnoe-otoplenie/)
+
+### В Петербурге ждут бабье лето
+*Published at*: 2024-10-14
+Location: N/A
+Description: А в Ленобласти снег.
+Read more: [link](https://kudago.com/spb/news/v-peterburge-zhdut-babe-leto/)
+
+### Измени своё лицо: рецензия на фильм «Другой человек»
+*Published at*: 2024-10-13
+Location: N/A
+Description: Новинка с Берлинского кинофестиваля «Другой человек» ещё идёт в прокате и вполне успешно может шокировать неподготовленного зрителя. Возможно, что кого-то даже не меньше, чем «Субстанция». Аарон Шимберг продолжает препарировать вопросы красоты и уродства и снимает боди-хоррор на грани с драмой и чёрной сатирой. Каким получился этот морализаторский ужастик, читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+Read more: [link](https://kudago.com/all/news/retsenziya-na-film-drugoj/)
+
+### В Петербурге началась закупка новогодних украшений для улиц
+*Published at*: 2024-10-11
+Location: N/A
+Description: Ель на Дворцовой будет живой.
+Read more: [link](https://kudago.com/spb/news/v-peterburge-nachalas-zakupka/)
+
+### В Ленобласти заметили необычных уток и беркута
+*Published at*: 2024-10-11
+Location: N/A
+Description: Им грозит вымирание.
+Read more: [link](https://kudago.com/spb/news/v-lenoblasti-zametili-neobyichnyih/)
+
+### В заповеднике Ленобласти впервые за несколько лет заметили волчат
+*Published at*: 2024-10-11
+Location: N/A
+Description: Они попали в видеоловушку.
+Read more: [link](https://kudago.com/spb/news/v-zapovednike-v-lenoblasti/)
+
+### У «Теории большого взрыва» появится спин-офф
+*Published at*: 2024-10-11
+Location: N/A
+Description: В нём расскажут о второстепенных персонажах шоу.
+Read more: [link](https://kudago.com/all/news/u-teorii-bolshogo-vzryiva/)
+
+### В Риме за посещение фонтана Треви будут брать плату
+*Published at*: 2024-10-11
+Location: N/A
+Description: Власти ограничат поток туристов к центральной достопримечательности.
+Read more: [link](https://kudago.com/all/news/v-rime-za-poseschenie-fontana/)
+
+### Tesla выпустит беспилотные такси
+*Published at*: 2024-10-11
+Location: N/A
+Description: Илон Маск хочет запустить производство уже через два года.
+Read more: [link](https://kudago.com/all/news/tesla-vyipustit-bespilotnyie-taksi/)
+
+### «Поющие мосты» вновь посвятят творчеству Андрея Петрова
+*Published at*: 2024-10-11
+Location: N/A
+Description: Композитор создал музыку ко многим популярным фильмам.
+Read more: [link](https://kudago.com/spb/news/poyuschie-mostyi-vnov-posvyatyat/)
+
+### Вышел ещё один трейлер «Конклава» с Рэйфом Файнсом
+*Published at*: 2024-10-11
+Location: N/A
+Description: Премьера в России в конце ноября.
+Read more: [link](https://kudago.com/all/news/vyishel-eschyo-odin-trejler/)
+
+### В Ленобласти назвали самые популярные и необычные имена детей
+*Published at*: 2024-10-11
+Location: N/A
+Description: В топе без изменений.
+Read more: [link](https://kudago.com/spb/news/v-lenoblasti-nazvali-samyie/)
+
+### Британцы снимут спин-офф «Гордости и предубеждения»
+*Published at*: 2024-10-11
+Location: N/A
+Description: Он расскажет о младшей сестре  Элизабет Беннет.
+Read more: [link](https://kudago.com/all/news/britantsyi-snimut-spin-off/)
+
+### В России выпустили книгу о пет-френдли культуре
+*Published at*: 2024-10-11
+Location: N/A
+Description: Это сборник советов по организации удобного пространства для четвероногих.
+Read more: [link](https://kudago.com/all/news/v-rossii-vyipustili-knigu-o-pet-/)
+
+### Северное сияние наблюдали по всей России
+*Published at*: 2024-10-11
+Location: N/A
+Description: В выходные ждут новую серию «небесного шоу».
+Read more: [link](https://kudago.com/all/news/severnoe-siyanie-nablyudali-po/)
+
+### «Мне даже сон снился, как я в красном платье поднимаюсь на сцену за Грэмми»: интервью с Baby Cute
+*Published at*: 2024-10-11
+Location: N/A
+Description: Восходящая звезда лейбла Gazgolder рассказала в интервью KudaGo, что считает своим главным достижением, как реагирует на критику в соцсетях и когда выйдет первый альбом.
+Read more: [link](https://kudago.com/all/news/intervyu-baby-cute/)
+
+### «Просто я такой, и здравствуйте»: почему стоит посетить выставку «Виктор Цой. Легенда», даже если вы не его фанат
+*Published at*: 2024-10-11
 Location: spb
-Description: Интерактивная выставка для взрослых, наполненная идеями и гипотезами известного психоаналитика, интерпретациями и инсценировками откровенных снов и документальных кадров из жизни Зигмунда Фрейда. Всё это художники и организаторы собрали в одном месте для того, чтобы каждый мог погрузиться в мир искушений и своих фантазий. Рассказываем, что уникального вас ждёт на экспозиции.
-Read more: [link](https://kudago.com/spb/news/samaya-provokatsionnaya-vyistavka/)
+Description: С чем у вас ассоциируется Виктор Цой и какие чувства вызывает его музыка? Понять легенду и погрузиться в атмосферу его времени приглашает выставка-байопик, которая два года назад уже поразила жителей столицы, а теперь в обновлённом виде открылась на родине музыканта. Посетить экспозицию можно с 12 октября в «Севкабель Порту», а мы расскажем, чем она запомнилась нам и почему на ней понравится не только фанатам музыки «Кино».
+Read more: [link](https://kudago.com/spb/news/pochemu-stoit-posetit-vystavku-viktor-coj-legenda/)
 
-### Леди Гага выпустила клип на песню с нового альбома Harlequin
-*Published at*: 2024-09-26
+### Составили рейтинг лучших хорроров всех времён
+*Published at*: 2024-10-10
 Location: N/A
-Description: В видео она гуляет по пустому Лувру.
-Read more: [link](https://kudago.com/all/news/ledi-gaga-vyipustila-klina-pesnyu/)
+Description: В топ-10 — только картины ХХ века.
+Read more: [link](https://kudago.com/all/news/luchshie-horrory-vseh-vremyon/)
 
-### Про медвежонка Паддингтона снимут сериал и ещё один фильм
-*Published at*: 2024-09-26
+### Статуя лисёнка из посёлка Лисий Нос вернулась на своё место
+*Published at*: 2024-10-10
 Location: N/A
-Description: Новая кинолента будет приурочена к юбилею франшизы.
-Read more: [link](https://kudago.com/all/news/pro-medvezhonka-paddingtona/)
+Description: Она была на реставрации.
+Read more: [link](https://kudago.com/spb/news/statuya-lisenka-iz-poselka-lisij/)
 
-### В Хабаровском крае люди помогали китам спасти сородича
-*Published at*: 2024-09-26
+### ВКонтакте отмечает 18-летие
+*Published at*: 2024-10-10
 Location: N/A
-Description: Он застрял на отмели.
-Read more: [link](https://kudago.com/all/news/v-habarovskom-krae-lyudi-pomogali/)
+Description: Соцсеть поздравила пользователей, которым тоже исполнилось 18 в этот день.
+Read more: [link](https://kudago.com/all/news/vkontakte-otmechaet-18-letie/)
 
-### В Минтруда предложили сократить список запрещённых для женщин профессий
-*Published at*: 2024-09-26
+### Эрмитаж рассказал о планах на 2025 год
+*Published at*: 2024-10-10
 Location: N/A
-Description: Сейчас в нём 100 наименований.
-Read more: [link](https://kudago.com/all/news/v-mintruda-predlozhili-sokratit/)
+Description: В следующем году музей проведёт больше 30 выставок.
+Read more: [link](https://kudago.com/spb/news/ermitazh-rasskazal-o-planah-na/)
 
-### В центре Петербурга появились помидоры
-*Published at*: 2024-09-26
+### В Петербурге завершили благоустройство бульвара Новаторов
+*Published at*: 2024-10-10
 Location: N/A
-Description: Первую «грядку» заметили 21 сентября.
-Read more: [link](https://kudago.com/spb/news/v-tsentre-peterburga-poyavilis-pomidory/)
+Description: В Кировском районе новое пространство для прогулок.
+Read more: [link](https://kudago.com/spb/news/v-peterburge-zavershili-blagoustrojstvo-bulvara-novatorov/)
 
-### Московское деловое издание выпустило самое большое интервью в истории России
-*Published at*: 2024-09-26
+### В Ленобласти продолжается грибной сезон
+*Published at*: 2024-10-10
 Location: N/A
-Description: Оно в 30 раз длиннее стандартного.
-Read more: [link](https://kudago.com/all/news/moskovskoe-delovoe-izdanie/)
+Description: Охота за клюквой в самом разгаре.
+Read more: [link](https://kudago.com/spb/news/v-lenoblasti-prodolzhaetsya/)
 
-### В Петербурге откроется выставка-байопик про Виктора Цоя
-*Published at*: 2024-09-26
+### Планета против: рецензия на фильм «Говорит Земля!»
+*Published at*: 2024-10-10
 Location: N/A
-Description: На ней покажут уникальное собрание его личных вещей.
-Read more: [link](https://kudago.com/spb/news/v-peterburge-otkroetsya-vyistavka-/)
-
-### Над Петербургом и Ленобластью заметили северное сияние
-*Published at*: 2024-09-26
-Location: N/A
-Description: Наблюдению не помешал даже дождь.
-Read more: [link](https://kudago.com/spb/news/nad-peterburgom-i-lenoblastyu/)
-
-### Оркестр «Северная симфония» под руководством Фабио Мастранджело открыл новый сезон
-*Published at*: 2024-09-26
-Location: N/A
-Description: Музыканты представили проект, посвящённый Пушкину.
-Read more: [link](https://kudago.com/spb/news/orkestr-severnaya-simfoniya-pod/)
-
-### Петербург Лии Арден: по следам вдохновения писательницы
-*Published at*: 2024-09-26
-Location: N/A
-Description: В списках городов, повлиявших на творчество отечественных писателей в самые разные эпохи, Петербург определённо занимает лидирующие строчки: сложно сосчитать всех именитых авторов, чья поэзия и проза пронизана духом Северной столицы. Звезда русскоязычного фэнтези Лия Арден в их числе. Сейчас писательница живёт и работает в Южной Корее, при этом не забывая про родной для неё Санкт-Петербург и регулярно возвращаясь туда для встреч с преданными поклонниками её романов.
-Мы спросили Лию, с какими достопримечательностями города на Неве у неё связаны особые воспоминания и как эти памятные локации нашли отражение на страницах её книг. Приготовьтесь открыть Петербург с новой, магической стороны.
-Read more: [link](https://kudago.com/spb/news/peterburg-lii-arden-po-sledam/)
-
-### В Баварии состоялся крупнейший в мире парад такс
-*Published at*: 2024-09-26
-Location: N/A
-Description: Участвовало больше 1000 животных.
-Read more: [link](https://kudago.com/all/news/v-bavarii-sostoyalsya-krupnejshij-v/)
-
-### Вышел дебютный трейлер продолжения «Волшебников из Вэйверли-плейс»
-*Published at*: 2024-09-26
-Location: N/A
-Description: Селена Гомес снялась в первом эпизоде в качестве приглашённого гостя.
-Read more: [link](https://kudago.com/all/news/vyishel-debyutnyij-trejler/)
-
-### Опубликован трейлер сериала Альфонсо Куарона с Кейт Бланшетт
-*Published at*: 2024-09-25
-Location: N/A
-Description: В проекте также участвуют Саша Барон Коэн и звезда «Игры в кальмара» Чон Хо Ён.
-Read more: [link](https://kudago.com/all/news/poyavilsya-trejler-seriala/)
-
-### У Linkin Park вышла новая песня
-*Published at*: 2024-09-25
-Location: N/A
-Description: Она войдёт в грядущий альбом группы.
-Read more: [link](https://kudago.com/all/news/u-linkin-park-vyishla-novaya-pesnya/)
-
-### Леди Гага анонсировала новый альбом
-*Published at*: 2024-09-25
-Location: N/A
-Description: Он выйдет в конце сентября.
-Read more: [link](https://kudago.com/all/news/novyj-albom-ledi-gagi/)
-
-### Вышел тизер-трейлер спин-оффа «Головоломки»
-*Published at*: 2024-09-25
-Location: N/A
-Description: Премьера состоится в декабре.
-Read more: [link](https://kudago.com/all/news/tizer-trejler-spin-offa-golovolomki/)
-
-### Фотография души: почему стоит посетить новое шоу Ленинград Центра
-*Published at*: 2024-09-25
-Location: spb
-Description: В честь 10-летия Ленинград Центра на его сцене премьера 2024 года — шоу «Коллекционер. Фотоувеличение». Это путешествие в мир фотографии, любви, красоты и силы человеческого тела, многогранности танцевального искусства. Это рассказ о том, что снимок — не просто фиксация момента из жизни, но всегда история, которая не заканчивается за щелчком затвора.
-Read more: [link](https://kudago.com/spb/news/fotografiya-dushi-pochemu-stoit/)
-
-### Нейросеть перерисовала героев «Простоквашино» в стиле Миядзаки
-*Published at*: 2024-09-25
-Location: N/A
-Description: Комментаторы отмечают похорошевшего Шарика.
-Read more: [link](https://kudago.com/all/news/nejroset-pererisovala-geroev/)
-
-### У Биржевого моста открыли пешеходный тоннель с подогревом
-*Published at*: 2024-09-25
-Location: N/A
-Description: Он предотвращает образование наледи.
-Read more: [link](https://kudago.com/spb/news/u-birzhevogo-mosta-otkryili/)
-
-### В Санкт-Петербурге открылся сказочный музей «Небылица-Водица»
-*Published at*: 2024-09-25
-Location: N/A
-Description: В нём обитают волшебные герои из подводного царства.
-Read more: [link](https://kudago.com/spb/news/v-sankt-peterburge-otkryilsya-24-09-2024/)
-
-### Опубликован список городов с самыми красивыми закатами
-*Published at*: 2024-09-24
-Location: N/A
-Description: Российских городов в нём нет.
-Read more: [link](https://kudago.com/all/news/opublikovan-spisok-gorodov-s/)
-
-### В Московской и Ленинградской областях проверят системы экстренного оповещения
-*Published at*: 2024-09-24
-Location: N/A
-Description: Систему тестируют несколько раз в год.
-Read more: [link](https://kudago.com/all/news/proverka-sistem-ekstrennogo-opovesheniya-moskva-peterburg/)
-
-### Марго Робби и Джейкоб Элорди сыграют в новой версии «Грозового перевала»
-*Published at*: 2024-09-24
-Location: N/A
-Description: Съёмки начнутся в следующем году.
-Read more: [link](https://kudago.com/all/news/margo-robbi-i-dzhejkob-elordi/)
-
-### По мотивам «Друзей» выйдет телевикторина
-*Published at*: 2024-09-24
-Location: N/A
-Description: В честь юбилея сериала.
-Read more: [link](https://kudago.com/all/news/po-motivam-druzej-vyipustyat/)
-
-### Идёт работа над мультсериалом про Чебурашку
-*Published at*: 2024-09-24
-Location: N/A
-Description: Он выйдет в следующем году.
-Read more: [link](https://kudago.com/all/news/idyot-rabota-nad-multserialom/)
-
-### Утопия по-русски: рецензия на сериал «Исправление и наказание»
-*Published at*: 2024-09-24
-Location: N/A
-Description: С 16 сентября на телеканале ТНТ стартовал второй сезон сериала «Исправление и наказание» с Анной Михалковой в главной роли. Фанаты комедии ждали продолжения истории два года. В новых сериях курс всё также взят на любовь и юмор. Каким обещает быть развитие сериала — читайте в нашей рецензии. Ещё больше материалов ищите в разделе о кино.
-Read more: [link](https://kudago.com/all/news/utopiya-po-russki-recenziya-na-serial-ispravlenie-i-nakazanie/)
-
-### Социальный хоррор: рецензия на фильм «Холли»
-*Published at*: 2024-09-24
-Location: N/A
-Description: До российского проката добралось неторопливое и пугающее кино бельгийки Фин Трох. Лента была показана в основном конкурсе 80-го Венецианского кинофестиваля, а затем на кинофестивале VOICES в Вологде. На большие экраны картину привезла кинопрокатная компания Arthouse, которая старается удивлять российского зрителя свежими арт-новинками. И «Холли» не исключение. Подробнее о фильме читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
-Read more: [link](https://kudago.com/all/news/retsenziya-na-film-holli/)
-
-### На «Балтийской» отремонтируют путевые стены
-*Published at*: 2024-09-24
-Location: N/A
-Description: Закрывать станцию не будут.
-Read more: [link](https://kudago.com/spb/news/kapitalnyj-remont-na-baltijskoj/)
-
-### В Ленобласти заметили воробья с белыми перьями
-*Published at*: 2024-09-24
-Location: N/A
-Description: Это не альбинос.
-Read more: [link](https://kudago.com/spb/news/v-lenoblasti-zametili-belogo-vorobya/)
-
-### Вышел новый трейлер второго «Гладиатора»
-*Published at*: 2024-09-24
-Location: N/A
-Description: Премьера ожидается в ноябре.
-Read more: [link](https://kudago.com/all/news/novyj-trejler-vtorogo-gladiatora/)
-
-### Вышел первый трейлер фильма о злодеях Marvel
-*Published at*: 2024-09-24
-Location: N/A
-Description: Премьера — в первой половине в следующего года.
-Read more: [link](https://kudago.com/all/news/pervyj-trejler-gromoverzhcev/)
-
-### В башне Олафа в Выборгском замке установили лифт
-*Published at*: 2024-09-24
-Location: N/A
-Description: Цитадель снова начнёт принимать гостей до конца декабря.
-Read more: [link](https://kudago.com/spb/news/v-bashne-olafa-v-vyiborgskom-zamke-ustanovili-lift/)
-
-### Джонни Депп получит премию за достижения в кинематографе на Римском кинофестивале
-*Published at*: 2024-09-23
-Location: N/A
-Description: Он состоится в октябре.
-Read more: [link](https://kudago.com/all/news/dzhonni-depp-poluchit-premiyu-za/)
-
-### Вышел новый трейлер экшен-комедии «Миссия: Красный» с Дуэйном Джонсоном и Крисом Эвансом
-*Published at*: 2024-09-23
-Location: N/A
-Description: В прокате лента появится в ноябре.
-Read more: [link](https://kudago.com/all/news/vyishel-novyij-trejler-ekshen-/)
-
-### В Австралии гигантский пингвинёнок стал звездой соцсетей
-*Published at*: 2024-09-23
-Location: N/A
-Description: Дело в его богатырских размерах.
-Read more: [link](https://kudago.com/all/news/v-avstralii-gigantskij-ptenets/)
-
-### Банк России выпустил памятные монеты в честь мультфильма «Ёжик в тумане»
-*Published at*: 2024-09-23
-Location: N/A
-Description: Мультику скоро исполнится 50 лет.
-Read more: [link](https://kudago.com/all/news/bank-rossii-vyipustil-pamyatnyie-23-09-2024/)
-
-### «Жизнь одна, никто не знает, что будет завтра»: интервью с организатором вечеринки «Белая» Андреем Резниковым
-*Published at*: 2024-09-23
-Location: N/A
-Description: В выходные пройдет масштабная вечеринка «Белая» от создателей легендарного фестиваля Sensation. Зрители побывают в целом сказочном городе, где увидят воздушных гимнастов, впечатляющую видеографику и нескольких зарубежных звезд. Перед праздником танцевальной музыки и визуального искусства Андрей Резников рассказал, чего ждать гостям «Белой».
-Read more: [link](https://kudago.com/spb/news/intervyu-s-organizatorami-belaya/)
-
-### Linkin Park представит новый сингл на чемпионате мира по League of Legends
-*Published at*: 2024-09-23
-Location: N/A
-Description: По слухам, его используют в новом сезоне «Аркейна».
-Read more: [link](https://kudago.com/all/news/linkin-park-predstavit-novyij/)
-
-### В Выборгском районе после реконструкции открылся сад Александра Матросова
-*Published at*: 2024-09-23
-Location: N/A
-Description: Благоустройство провели по инициативе местных жителей.
-Read more: [link](https://kudago.com/spb/news/v-vyiborgskom-rajone-posle/)
-
-### Кинолог назвал самые популярные литературные клички собак
-*Published at*: 2024-09-23
-Location: N/A
-Description: Лидерами рейтинга стали Мастер и Маргарита.
-Read more: [link](https://kudago.com/all/news/kinolog-nazval-samyie-populyarnyie-23-09-2024/)
-
-### У Земли появится вторая Луна
-*Published at*: 2024-09-23
-Location: N/A
-Description: Но только на два месяца.
-Read more: [link](https://kudago.com/all/news/u-zemli-poyavitsya-vtoraya-luna/)
-
-### Скоро в Петербурге потеплеет
-*Published at*: 2024-09-23
-Location: N/A
-Description: Однако к субботе температура понизится.
-Read more: [link](https://kudago.com/spb/news/skoro-v-peterburge-potepleet/)
+Description: В кинотеатрах уже идёт легкомысленная, но забавная комедия «Говорит Земля!». Евгений Корчагин, снимавший «Михалыча» и «Войну семей» для телеканала ТНТ, посвятил свой полнометражный дебют проблемам экологии. Впрочем, довольно поверхностно. Какой получилась экокомедия, читайте в нашей рецензии. Ещё больше обзоров премьер и рецензий на фильмы ищите у нас на сайте в разделе про кино.
+Read more: [link](https://kudago.com/all/news/retsenziya-na-film-govorit-zemlya/)
 

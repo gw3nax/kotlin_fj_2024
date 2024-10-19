@@ -1,13 +1,22 @@
 package newsAPI
 
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.channels.Channel
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.runBlocking
 import newsAPI.dsl.newsApiDsl.news
 import newsAPI.dsl.prettyPrinterDsl.readme
-import java.io.BufferedReader
-import java.io.InputStreamReader
+import newsAPI.dto.News
+import newsAPI.dto.NewsDataSet
+import newsAPI.processor.processor
+import newsAPI.service.NewsService
+import newsAPI.worker.worker
+import java.time.LocalDate
+import java.time.format.DateTimeFormatter
 
-val reader = BufferedReader(InputStreamReader(System.`in`))
+fun main() = runBlocking {
+    val reader = System.`in`.bufferedReader()
 
-fun main() {
     print("Input number of news you want to get: ")
     val numOfNews = reader.readLine()!!.toInt()
 
@@ -16,6 +25,44 @@ fun main() {
 
     print("Input end date of news (example: 2024-09-16): ")
     val endDate = reader.readLine()
+
+    val dateFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd")
+    val dataSet = NewsDataSet().apply {
+        count = numOfNews
+        location = "spb"
+        period = LocalDate.parse(startDate, dateFormatter)..LocalDate.parse(endDate, dateFormatter)
+    }
+
+    val newsService = NewsService()
+    val newsChannel = Channel<List<News>>(Channel.UNLIMITED)
+
+    var startTime = System.currentTimeMillis()
+
+    val processorJob = launch {
+        processor(newsChannel)
+    }
+
+    val threadCount = 1000
+    val workerJobs = List(threadCount) { threadIndex ->
+        launch(Dispatchers.Default) {
+            var page = threadIndex + 1
+            while (page < numOfNews) {
+                worker(newsService, newsChannel, dataSet, page)
+                page += threadCount
+            }
+        }
+    }
+
+    workerJobs.forEach { it.join() }
+
+    newsChannel.close()
+    processorJob.join()
+    var endTime = System.currentTimeMillis()
+    var executionTime = endTime - startTime
+
+    println("Execution with async time: $executionTime ms")
+
+    startTime = System.currentTimeMillis()
 
     news {
         fileName = "NewsReport.csv"
@@ -35,4 +82,7 @@ fun main() {
         }
         news(count = numOfNews, location = "spb", startedAt = startDate, endedAt = endDate)
     }
+    endTime = System.currentTimeMillis()
+    executionTime = endTime - startTime
+    println("Execution without async time: $executionTime ms")
 }
