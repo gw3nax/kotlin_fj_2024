@@ -60,7 +60,7 @@ fun main() = runBlocking {
     var endTime = System.nanoTime()
     var executionTime = endTime - startTime
 
-    println("Execution with async time: ${executionTime/1_000} ms")
+    println("Execution with async time: ${executionTime/1_000} mks")
 
     startTime = System.nanoTime()
 

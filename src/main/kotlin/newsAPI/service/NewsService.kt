@@ -41,8 +41,14 @@ class NewsService {
         val count = dataSet.count
         val period = dataSet.period!!
         val location = dataSet.location
+        var news = NewsResults()
 
-        return NewsResults(getNewsFromApiKudaGo(location, count, page).news.getMostRatedNews(count, period))
+        try {
+             news = NewsResults(getNewsFromApiKudaGo(location, count, page).news.getMostRatedNews(count, period))
+        } catch (e : IOException) {
+            LOGGER.error("Failed to fetch news from the API")
+        }
+        return news;
     }
     
 }
