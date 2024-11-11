@@ -36,11 +36,11 @@ fun main() = runBlocking {
     val newsService = NewsService()
     val newsChannel = Channel<List<News>>(Channel.UNLIMITED)
 
-    var startTime = System.currentTimeMillis()
 
     val processorJob = launch {
         processor(newsChannel)
     }
+    var startTime = System.nanoTime()
 
     val threadCount = 1000
     val workerJobs = List(threadCount) { threadIndex ->
@@ -57,12 +57,12 @@ fun main() = runBlocking {
 
     newsChannel.close()
     processorJob.join()
-    var endTime = System.currentTimeMillis()
+    var endTime = System.nanoTime()
     var executionTime = endTime - startTime
 
-    println("Execution with async time: $executionTime ms")
+    println("Execution with async time: ${executionTime/1_000} ms")
 
-    startTime = System.currentTimeMillis()
+    startTime = System.nanoTime()
 
     news {
         fileName = "NewsReport.csv"
@@ -82,7 +82,7 @@ fun main() = runBlocking {
         }
         news(count = numOfNews, location = "spb", startedAt = startDate, endedAt = endDate)
     }
-    endTime = System.currentTimeMillis()
+    endTime = System.nanoTime()
     executionTime = endTime - startTime
-    println("Execution without async time: $executionTime ms")
+    println("Execution without async time: ${executionTime/1_000} mks")
 }
