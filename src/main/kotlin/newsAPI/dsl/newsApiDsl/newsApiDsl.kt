@@ -5,7 +5,7 @@ import newsAPI.service.NewsService
 import org.slf4j.LoggerFactory
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
-
+import newsAPI.service.saveNews
 object news {
     operator fun invoke(init: NewsContext.() -> Unit) = NewsContext().init()
 }
@@ -22,7 +22,7 @@ class NewsContext {
         val dataSet = context.buildDataSet()
         val newsService = NewsService()
         val newsResults = newsService.getNews(dataSet)
-        return newsService.saveNews(fileName, newsResults);
+        return saveNews(fileName, newsResults);
     }
 }
 
@@ -53,10 +53,8 @@ class DataContext {
     }
 
     fun buildDataSet() = NewsDataSet().apply {
-        LOGGER.info("\nBefore:\nstartDate: ${startDate.toString()}\nendDate: ${endDate.toString()}")
         count = this@DataContext.count
         location = this@DataContext.location
         period = this@DataContext.startDate..this@DataContext.endDate
-        LOGGER.info("\nAfter:\nstartDate: ${startDate.toString()}\nendDate: ${endDate.toString()}")
     }
 }
